@@ -12,7 +12,7 @@
     "predeploy": "vite run build",
     "deploy": "gh-pages -d dist"
     "start": "react-scripts start",
-    "build": "react-scripts dist"
+    "build": "react-scripts dist",
   },
   "dependencies": {
     "react": "^19.0.0",
